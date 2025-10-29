@@ -1,3 +1,5 @@
+![Aevyra Labs](https://i.ibb.co/wNWqLZ13/Aevyra-Lab-comp.jpg)
+
 # Aevyra Labs
 
 **We build practical AI solutions for real businesses.**
